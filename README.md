@@ -1,7 +1,7 @@
-# 🗺️ **NobleBlips - GTA 5 Custom Blip Creator**
+    # 🗺️ **BlipCreator - FiveM Custom Blip Creator**
 
 **Overview:**  
-NobleBlips is an advanced, highly customizable blip creation system designed to enhance GTA 5 servers with seamless, efficient map markers. With this tool, server administrators can easily configure and manage blips, tailored to the exact needs of their server. Each blip is fully customizable, allowing for precise control over location, text, sprite, color, and scale.
+BlipCreator is an advanced, highly customizable blip creation system designed to enhance GTA 5 servers with seamless, efficient map markers. With this tool, server administrators can easily configure and manage blips, tailored to the exact needs of their server. Each blip is fully customizable, allowing for precise control over location, text, sprite, color, and scale.
 
 **Key Features:**  
 - **Comprehensive Blip Customization:** Fully configurable blips with adjustable positions, text labels, sprite icons, colors, and scaling for a unique server experience.  
@@ -19,7 +19,7 @@ NobleBlips is an advanced, highly customizable blip creation system designed to 
 
 ## ⚙️ **Installation & Setup Instructions:**
 
-To integrate **NobleBlips** into your GTA 5 server, follow these detailed steps:
+To integrate **BlipCreator** into your GTA 5 server, follow these detailed steps:
 
 ### 1️⃣ **Clone the Repository**  
 Clone the repository to your local machine with the following command:  
@@ -61,7 +61,7 @@ ensure NobleBlips
 ```
 
 ### 5️⃣ **Restart the Server**  
-Restart your server to load the **NobleBlips** script and apply the configured blips.
+Restart your server to load the **BlipCreator** script and apply the configured blips.
 
 ### 6️⃣ **Dynamic Updates**  
 You can easily adjust or add new blips by modifying the `config.lua` file and restarting the resource. This allows for flexible customization during runtime without affecting server performance.
@@ -79,5 +79,5 @@ You can easily adjust or add new blips by modifying the `config.lua` file and re
 ## 🔗 **Contact & Support Links:**
 
 - **Developer's Discord Profile:** [Kaloudas](https://discordlookup.com/user/1069279857072160921)  
-- **Official NobleCraft Discord:** [Join Discord](https://discord.gg/noblecraft)  
 - **Developer's Email:** [kaloudasdev@gmail.com](mailto:kaloudasdev@gmail.com) 
+
